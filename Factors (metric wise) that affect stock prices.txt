@@ -1,0 +1,14 @@
+
+Daily weekday data -
+
+Oil Prices (main objective of the project) - Done - added
+Value of currency - Done - added
+
+----------------------------------------------------------
+
+Monthly data -
+
+Inflation - Done - added
+Effective Federal Funds Rate - Done - added
+
+----------------------------------------------------------

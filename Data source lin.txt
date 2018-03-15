@@ -1,0 +1,3 @@
+https://www.kaggle.com/camnugent/sandp500/data
+http://www.macrotrends.net/2516/wti-crude-oil-prices-10-year-daily-chart
+https://fred.stlouisfed.org/
